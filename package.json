@@ -1,0 +1,24 @@
+{
+  "name": "webscraping-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Pedro15/webscraping-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao-Pedro15/webscraping-study/issues"
+  },
+  "homepage": "https://github.com/Joao-Pedro15/webscraping-study#readme",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
